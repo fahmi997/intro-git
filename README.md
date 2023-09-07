@@ -2,5 +2,6 @@
 
 # Description
 GIT merupakan tools untuk membantu melakukan management project directory.
-## Section 1.A
+## Initialize GIT
+Use command git init to activate git in your directory
 ### Section 1.A.1
